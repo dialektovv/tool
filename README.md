@@ -5,12 +5,9 @@
   + `pkg install git`
   + `pkg install python -y`
   + `pip install --upgrade pip`
-  + `git clone https://github.com/Lucky1376/ORION-Bomber`
-  + `cd ORION-Bomber`
-  + `pip install -r requirements.txt`
-  + `python main.py`
+  + `wget https://raw.githubusercontent.com/dialektovv/tool/main/mercury.py`
+  + `pip install requests`
+  + `python mercury.py`
 + #### **Перезапуск (Android - Termux)**
-  + `cd`
-  + `cd ORION-Bomber`
-  + `python main.py`
+  + `python mercury.py`
 ___
